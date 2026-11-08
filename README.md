@@ -87,7 +87,7 @@ Windows'un bazı LTSC kurulumlarında bulunmayabilen bileşenleri eklemeye yard�
 
 ### Hazır sürüm
 
-Çalıştırılabilir bir paket yayımlanmışsa [Releases](https://github.com/Mirac-BRG/ChaosBoost-Tweaker/releases) sayfasından indirebilirsiniz.
+Çalıştırılabilir bir paket yayımlanmışsa [Releases](https://github.com/QT-DelayLess/ChaosBoost-Tweaker/releases) sayfasından indirebilirsiniz.
 
 ### Kaynak koddan derleme
 
