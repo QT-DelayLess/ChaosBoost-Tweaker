@@ -66,7 +66,7 @@ Gizlilik tercihleri, servisler, güç yönetimi, ağ ayarları ve isteğe bağl�
 
 Cephanelik ayrıca aşağıdaki araçlara erişim sunar:
 
-- **[SoundVibe](https://github.com/Mirac-BRG/SoundVibe):** Müzik oynatıcı kurulum dosyasını indirip çalıştırma.
+- **[SoundVibe](https://github.com/QT-DelayLess/SoundVibe):** Müzik oynatıcı kurulum dosyasını indirip çalıştırma.
 - **[SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey):** DPI aracı kurulum dosyasını indirip kurulumdan sonra uygulamayı açmayı deneme. **DPI yöntemi SplitWire içinde kullanıcı tarafından seçilir.**
 
 Bu iki GitHub kurulum dosyası, kodda tanımlı sabit sürüm ve **SHA-256** değeriyle doğrulanır; eşleşmeyen dosya çalıştırılmaz. Üçüncü taraf araçlar ilgili geliştiricilerine aittir.
