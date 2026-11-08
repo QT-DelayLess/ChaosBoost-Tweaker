@@ -94,7 +94,7 @@ Windows'un bazı LTSC kurulumlarında bulunmayabilen bileşenleri eklemeye yard�
 **Gereksinimler:** Windows, Visual Studio 2022 (WPF/.NET masaüstü geliştirme bileşenleriyle) veya projede hedeflenen .NET SDK'sı. Cephanelik üzerinden uygulama kurmak için **WinGet** gereklidir.
 
 ```powershell
-git clone https://github.com/Mirac-BRG/ChaosBoost-Tweaker.git
+git clone https://github.com/QT-DelayLess/ChaosBoost-Tweaker.git
 cd ChaosBoost-Tweaker
 dotnet restore
 dotnet build -c Release
