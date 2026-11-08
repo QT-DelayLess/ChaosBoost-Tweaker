@@ -406,7 +406,7 @@ namespace ChaosBoostTweaker
         private const string SplitWireSetupSha256 =
             "b1d2505b16164548048792e2da2ea2f9c22ce6ab7391354c125d4b3f98eb127b";
         private const string SoundVibeSetupUrl =
-            "https://github.com/Mirac-BRG/SoundVibe/releases/download/1.0/SoundVibe_Setup.exe";
+            "https://github.com/QT-DelayLess/SoundVibe/releases/download/1.0/SoundVibe_Setup.exe";
         private const string SoundVibeSetupSha256 =
             "c2f842911d2e4f63f95bf1e0d677e6ac44e3aaea57803ffe9ab8047ac071012a";
 
