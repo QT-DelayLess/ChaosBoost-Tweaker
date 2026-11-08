@@ -117,7 +117,7 @@ ChaosBoost Tweaker; kayıt defteri, Windows hizmetleri, önyükleme seçenekleri
 
 ## 🤝 Katkıda bulunma
 
-Hata bildirmek, iyileştirme önermek veya yeni özellik istemek için [Issues](https://github.com/Mirac-BRG/ChaosBoost-Tweaker/issues) bölümünü kullanabilirsiniz. Katkı yapmak isterseniz değişikliklerinizi açıklayan bir pull request açabilirsiniz.
+Hata bildirmek, iyileştirme önermek veya yeni özellik istemek için [Issues](https://github.com/QT-DelayLess/ChaosBoost-Tweaker/issues) bölümünü kullanabilirsiniz. Katkı yapmak isterseniz değişikliklerinizi açıklayan bir pull request açabilirsiniz.
 
 ## 👤 Geliştirici
 
